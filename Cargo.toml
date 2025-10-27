@@ -1,6 +1,6 @@
 [package]
 name = "aws-ip-ranges"
-version = "0.1496.0"
+version = "0.1497.0"
 description = "https://ip-ranges.amazonaws.com/ip-ranges.json as const structs"
 license = "MIT/Apache-2.0"
 repository = "https://github.com/Turbo87/aws-ip-ranges"
