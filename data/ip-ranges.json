@@ -1,6 +1,6 @@
 {
-  "syncToken": "1791299826",
-  "createDate": "2026-10-06-15-17-06",
+  "syncToken": "1791314224",
+  "createDate": "2026-10-06-19-17-04",
   "prefixes": [
     {
       "ip_prefix": "3.4.12.4/32",
@@ -25707,6 +25707,12 @@
       "network_border_group": "eu-south-1"
     },
     {
+      "ip_prefix": "16.15.68.0/22",
+      "region": "us-east-1",
+      "service": "AMAZON",
+      "network_border_group": "us-east-1"
+    },
+    {
       "ip_prefix": "18.153.0.0/16",
       "region": "eu-central-1",
       "service": "AMAZON",
@@ -32319,6 +32325,12 @@
       "network_border_group": "us-west-2"
     },
     {
+      "ip_prefix": "16.15.64.0/22",
+      "region": "us-east-1",
+      "service": "AMAZON",
+      "network_border_group": "us-east-1"
+    },
+    {
       "ip_prefix": "23.228.228.0/22",
       "region": "us-east-1",
       "service": "AMAZON",
@@ -37833,6 +37845,12 @@
       "network_border_group": "GLOBAL"
     },
     {
+      "ip_prefix": "16.15.68.0/22",
+      "region": "us-east-1",
+      "service": "S3",
+      "network_border_group": "us-east-1"
+    },
+    {
       "ip_prefix": "52.95.163.0/24",
       "region": "sa-east-1",
       "service": "S3",
@@ -38125,6 +38143,12 @@
       "region": "cn-northwest-1",
       "service": "S3",
       "network_border_group": "cn-northwest-1"
+    },
+    {
+      "ip_prefix": "16.15.64.0/22",
+      "region": "us-east-1",
+      "service": "S3",
+      "network_border_group": "us-east-1"
     },
     {
       "ip_prefix": "140.179.36.208/28",
@@ -49125,6 +49149,12 @@
       "network_border_group": "eu-central-1"
     },
     {
+      "ip_prefix": "16.15.68.0/22",
+      "region": "us-east-1",
+      "service": "EC2",
+      "network_border_group": "us-east-1"
+    },
+    {
       "ip_prefix": "18.153.0.0/16",
       "region": "eu-central-1",
       "service": "EC2",
@@ -51349,6 +51379,12 @@
       "region": "eu-central-1",
       "service": "EC2",
       "network_border_group": "eu-central-1"
+    },
+    {
+      "ip_prefix": "16.15.64.0/22",
+      "region": "us-east-1",
+      "service": "EC2",
+      "network_border_group": "us-east-1"
     },
     {
       "ip_prefix": "23.228.228.0/22",
