@@ -1,6 +1,6 @@
 {
-  "syncToken": "1793346425",
-  "createDate": "2026-10-30-07-47-05",
+  "syncToken": "1793375225",
+  "createDate": "2026-10-30-15-47-05",
   "prefixes": [
     {
       "ip_prefix": "3.4.12.4/32",
@@ -53073,6 +53073,18 @@
       "network_border_group": "GLOBAL"
     },
     {
+      "ip_prefix": "51.72.40.128/28",
+      "region": "eusc-de-east-1",
+      "service": "CLOUDFRONT",
+      "network_border_group": "eusc-de-east-1"
+    },
+    {
+      "ip_prefix": "51.72.40.144/28",
+      "region": "eusc-de-east-1",
+      "service": "CLOUDFRONT",
+      "network_border_group": "eusc-de-east-1"
+    },
+    {
       "ip_prefix": "13.113.196.64/26",
       "region": "ap-northeast-1",
       "service": "CLOUDFRONT",
@@ -61486,6 +61498,12 @@
     },
     {
       "ip_prefix": "63.189.140.0/22",
+      "region": "eu-central-1",
+      "service": "EFS",
+      "network_border_group": "eu-central-1"
+    },
+    {
+      "ip_prefix": "63.189.210.0/23",
       "region": "eu-central-1",
       "service": "EFS",
       "network_border_group": "eu-central-1"
