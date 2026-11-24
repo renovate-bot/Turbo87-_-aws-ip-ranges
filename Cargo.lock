@@ -13,7 +13,7 @@ dependencies = [
 
 [[package]]
 name = "aws-ip-ranges"
-version = "0.2620.0"
+version = "0.2621.0"
 dependencies = [
  "serde",
  "serde_json",
